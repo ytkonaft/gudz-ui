@@ -1,8 +1,8 @@
-import React from "react";
-import { StyledHeading } from "./styles";
+import React from 'react';
+import { StyledHeading } from './styles';
 
 const Heading = ({ children, ...props }) => (
-  <StyledHeading {...props}>{children}</StyledHeading>
+	<StyledHeading {...props}>{children}</StyledHeading>
 );
 
 export default Heading;
