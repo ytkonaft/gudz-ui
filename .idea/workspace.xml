@@ -21,12 +21,7 @@
       <change beforePath="$PROJECT_DIR$/../gudz-front/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../gudz-front/pages/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gudz-front/styles/Home.module.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../gudz-front/styles/globals.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gudz-ui.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../test/my-task-first/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/my-task-first/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../test/my-task-first/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/my-task-first/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../test/my-task-first/src/components/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/my-task-first/src/components/Button.js" afterDir="false" />
@@ -80,7 +75,7 @@
       <workItem from="1637271221656" duration="1330000" />
       <workItem from="1637274285763" duration="855000" />
       <workItem from="1637356904980" duration="12828000" />
-      <workItem from="1637569445390" duration="777000" />
+      <workItem from="1637569445390" duration="815000" />
     </task>
     <servers />
   </component>
