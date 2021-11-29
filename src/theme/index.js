@@ -64,6 +64,12 @@ const Theme = {
 	shadow: {
 		inset: 'inset 1px 1px 1px #CAD1D1',
 	},
+	breakpoints: {
+		xlg: 1200,
+		lg: 992,
+		md: 768,
+		sm: 576,
+	},
 	thinHex,
 };
 
