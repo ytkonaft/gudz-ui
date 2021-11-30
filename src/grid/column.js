@@ -32,7 +32,6 @@ const getColCss = ({ colXs = COLUMNS_NUMBER, colSm, colMd, colLg }) => {
 
 const Column = styled.div`
 	display: flex;
-	box-sizing: border-box;
 	flex-direction: column;
 	padding: 0 ${GUTTER_WIDTH};
 	align-items: flex-start;

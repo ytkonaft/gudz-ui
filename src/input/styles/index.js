@@ -59,7 +59,6 @@ export const StyledInput = styled.input`
 	box-shadow: ${({ theme }) => theme.shadow.inset};
 	border-radius: 8px;
 	width: 100%;
-	box-sizing: border-box;
 	${({ size }) => inputSizesMap[size]};
 	outline: none;
 	transition: all 0.3s ease;

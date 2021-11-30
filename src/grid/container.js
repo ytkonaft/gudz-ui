@@ -4,7 +4,6 @@ import { GUTTER_WIDTH, CONTAINER_MAX_WIDTH } from './constants';
 const Container = styled.div`
 	display: block;
 	width: 100%;
-  box-sizing: border-box;
 	margin: 0 auto;
 	padding: 0 ${GUTTER_WIDTH};
 	max-width: ${({ fuild }) => (fuild ? '100%' : CONTAINER_MAX_WIDTH)};

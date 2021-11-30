@@ -5,27 +5,23 @@ import labelSizes from './label-sizes';
 import displayTextSizes from './display-text-sizes';
 
 export const StyledText = styled.p`
-	font-family: 'Inter', sans-serif;
 	font-weight: 400;
 	margin-top: 0;
 	${({ size }) => paragraphSizes[size]}
 `;
 
 export const StyledLabel = styled.label`
-	font-family: 'Inter', sans-serif;
 	font-weight: 500;
 	margin-top: 0;
 	${({ size }) => labelSizes[size]}
 `;
 
 export const StyledHeading = styled.h1`
-	font-family: 'Inter', sans-serif;
 	margin-top: 0;
 	${({ size }) => headingSizes[size]}
 `;
 
 export const StyledDisplayText = styled.h1`
-	font-family: 'Inter', sans-serif;
 	margin-top: 0;
 	${({ size }) => displayTextSizes[size]}
 `;
