@@ -3,6 +3,8 @@ import Theme from './theme';
 import Icon from './icon';
 import { Text, Heading, Label, DisplayText } from './text';
 import { Container, Row, Column } from './grid';
+import { GlobalStyles } from './globals';
+import Checkbox from './checkbox';
 
 export {
 	Theme,
@@ -15,4 +17,5 @@ export {
 	Container,
 	Row,
 	Column,
+	Checkbox,
 };
