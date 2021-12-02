@@ -1,15 +1,15 @@
 {
 	"name": "gudz-ui",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Library of UI components",
-	"main": "./src/index.js",
+	"main": "src/index.js",
 	"scripts": {
 		"storybook": "start-storybook -p 6006",
 		"build-storybook": "build-storybook",
 		"lint": "eslint ./src",
 		"lint:fix": "eslint ./src --fix"
 	},
-	"author": "",
+	"author": "ytkonaft",
 	"license": "ISC",
 	"peerDependencies": {
 		"prop-types": "*",
