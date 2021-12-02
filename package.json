@@ -1,7 +1,7 @@
 {
 	"name": "gudz-ui",
 	"version": "1.0.0",
-	"description": "Library of ui components",
+	"description": "Library of UI components",
 	"main": "./src/index.js",
 	"scripts": {
 		"storybook": "start-storybook -p 6006",
